@@ -10,3 +10,17 @@ There are some deep learning task source ,for example :ocr,object detect etc
 3.[CTPN   tensorflow](https://github.com/piginzoo/ctpn) [blog](http://www.piginzoo.com/machine-learning/2019/04/24/ocr-notes#ctpn)    
 
 [some other link and conference](https://blog.csdn.net/minstyrain/article/details/82313556)
+
+
+# Object Detect
+
+
+# ASR
+
+
+# Pose_Estimation_Material
+[some other link and conference](https://blog.csdn.net/Barry_J/article/details/94432865)
+
+
+
+
