@@ -13,6 +13,9 @@ There are some deep learning task source ,for example :ocr,object detect etc
 
 
 # Object Detect
+[Faster RCNN ](https://github.com/endernewton/tf-faster-rcnn)   [blog](https://zhuanlan.zhihu.com/p/31426458)  
+[Mask_RCNN](https://github.com/JYongSmile/Mask_RCNN)  
+
 
 
 # ASR
