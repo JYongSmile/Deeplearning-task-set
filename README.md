@@ -12,10 +12,21 @@ There are some deep learning task source ,for example :ocr,object detect etc
 [some other link and conference](https://blog.csdn.net/minstyrain/article/details/82313556)  
 
 
+# IMG Classification
+1.[Facenet](https://github.com/davidsandberg/facenet)     [Openface](https://github.com/cmusatyalab/openface)  
+2.
+
+
+
 # Object Detect
 1.[Faster RCNN ](https://github.com/endernewton/tf-faster-rcnn)   [blog](https://zhuanlan.zhihu.com/p/31426458)  
 2.[Mask_RCNN](https://github.com/JYongSmile/Mask_RCNN)  
 3.[YOLOV3 TF](https://github.com/YunYang1994/tensorflow-yolov3) [YOLOV3 Keras](https://github.com/qqwweee/keras-yolo3)  
+
+
+# Semantic Segmentation
+1.[FastFCN](https://github.com/wuhuikai/FastFCN)  
+
 
 
 # ASR
