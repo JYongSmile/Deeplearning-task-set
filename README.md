@@ -43,8 +43,9 @@ There are some deep learning task source ,for example :ocr,object detect etc
 
 # Photo Quality Enhancement
 1.[DPED](https://github.com/aiff22/DPED)  
-2.[DeblurGAN](https://github.com/KupynOrest/DeblurGAN)  
-
+2.[DeblurGAN](https://github.com/KupynOrest/DeblurGAN)  [csdn](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/78641844)
+3.[attentive-GAN-derainnet](https://github.com/MaybeShewill-CV/attentive-gan-derainnet)  [csdn](https://blog.csdn.net/z704630835/article/details/84616685)  
+ 
 
 
 ### datalisttool [https://www.datasetlist.com/tools/](https://www.datasetlist.com/tools/)
