@@ -35,7 +35,13 @@ There are some deep learning task source ,for example :ocr,object detect etc
 
 
 # Pose_Estimation_Material
-[some other link and conference](https://blog.csdn.net/Barry_J/article/details/94432865)
+1.[some other link and conference](https://blog.csdn.net/Barry_J/article/details/94432865)
+
+
+
+# Photo Quality Enhancement
+1.[DPED](https://github.com/aiff22/DPED)  
+
 
 
 
