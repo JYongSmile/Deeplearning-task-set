@@ -1,6 +1,8 @@
 # Deeplearning-task-set
 There are some deep learning task source ,for example :ocr,object detect etc 
 
+
+
 # Paper with code  
 [link](https://github.com/zziz/pwc)
 
@@ -14,7 +16,7 @@ There are some deep learning task source ,for example :ocr,object detect etc
 
 # IMG Classification
 1.[Facenet](https://github.com/davidsandberg/facenet)     [Openface](https://github.com/cmusatyalab/openface)  
-2.
+
 
 
 
@@ -41,7 +43,7 @@ There are some deep learning task source ,for example :ocr,object detect etc
 
 # Photo Quality Enhancement
 1.[DPED](https://github.com/aiff22/DPED)  
-
+2.[DeblurGAN](https://github.com/KupynOrest/DeblurGAN)  
 
 
 
