@@ -37,7 +37,7 @@ There are some deep learning task source ,for example :ocr,object detect etc
 
 
 # Pose_Estimation_Material
-1.[some other link and conference](https://blog.csdn.net/Barry_J/article/details/94432865)
+1.[some other link and conference](https://blog.csdn.net/Barry_J/article/details/94432865)  
 2.[Mask_RCNN](https://github.com/JYongSmile/Mask_RCNN)
 
 
